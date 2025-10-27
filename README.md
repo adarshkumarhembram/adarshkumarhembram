@@ -1,20 +1,82 @@
-<h1 align="center">Hi 👋, I'm Adarsh Kumar Hembram</h1>
-<h3 align="center">MERN Stack Developer | Building Full-Stack Web Apps | React | Node.js | MongoDB | Express</h3>
+<!-- 🚀 Adarsh Kumar Hembram - Modern GitHub Profile README -->
 
-- 🔭 I’m currently working on [LMS](https://github.com/adarshkumarhembram/LMS)
+<h1 align="center">Hi 👋, I'm <span style="color:#0077b6;">Adarsh Kumar Hembram</span></h1>
+<h3 align="center">💻 MERN Stack Developer | Building Full-Stack Web Apps | Exploring AI + Web Integration</h3>
 
-- 🌱 I’m currently learning **FULL STACK WEB DEV WITH AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/adarshkumarhembram?tab=repositories](https://github.com/adarshkumarhembram?tab=repositories)
-
-- 📫 How to reach me **https://www.linkedin.com/in/adarshhembram/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarshhembram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshhembram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarshkumarhembram&label=Profile%20Views&color=0e75b6&style=flat" alt="adarshkumarhembram" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkumarhembram&show_icons=true&locale=en&layout=compact" alt="adarshkumarhembram" /></p>
+### 🚀 About Me
+
+- 🔭 I’m currently working on **[LMS (Learning Management System)](https://github.com/adarshkumarhembram/LMS)**
+- 🌱 Learning **Full-Stack Web Development with AI**
+- 🧠 Passionate about **MERN, TailwindCSS, and Next.js**
+- 💬 Ask me about **JavaScript, React, Node.js, or Frontend Development**
+- ⚡ Fun fact: I love building **clean UIs & automating boring stuff with JS**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/adarshhembram/)**  
+- 👨‍💻 Check out all my projects [here](https://github.com/adarshkumarhembram?tab=repositories)
+
+---
+
+### 🧠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode,vercel,netlify,docker,cpp,java,graphql,mysql,aws" />
+</p>
+
+---
+
+### 🏗️ Highlight Projects
+
+#### 🧮 [LMS – Learning Management System](https://github.com/adarshkumarhembram/LMS)
+> A full-stack learning platform with user authentication, courses & admin dashboard.  
+**Tech:** MERN + TailwindCSS + JWT + REST APIs
+
+#### 🛍️ [ShopWise – E-commerce App](https://github.com/adarshkumarhembram/ShopWise)
+> Amazon-inspired e-commerce platform with cart, wishlist & responsive design.  
+**Tech:** React + TailwindCSS + Context API
+
+#### 🧠 [DOM-Master](https://github.com/adarshkumarhembram/DOM-Master)
+> A playground of creative DOM manipulation projects for JS learners.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adarshkumarhembram&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumarhembram&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkumarhembram&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🌱 Contribution Graph
+[![Adarsh’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshkumarhembram&theme=react-dark)](https://github.com/adarshkumarhembram)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshhembram/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adarsh.hembram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://adarshkumarhembram.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Build. Learn. Repeat.” ✨</h3>
+<p align="center">🚀 Turning ideas into interactive experiences.</p>
